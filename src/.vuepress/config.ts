@@ -5,19 +5,27 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/blog/",
 
-  locales: {
-    "/": {
-      lang: "en-US",
-      title: "Blog Demo",
-      description: "A blog demo for vuepress-theme-hope",
-    },
-    "/zh/": {
-      lang: "zh-CN",
-      title: "博客演示",
-      description: "vuepress-theme-hope 的博客演示",
-    },
-  },
-
+  lang: "en-US",
+  title: "Yuan Heng's Blog",
+  description: "Yuan Heng's Blog",
+  // head: [
+  //   [
+  //     'link',
+  //     {rel: 'icon', href: "logo.png"},
+  //   ]
+  // ],
+  // locales: {
+  //   "/": {
+      
+      
+  //   },
+  //   "/zh/": {
+  //     lang: "zh-CN",
+  //     title: "博客演示",
+  //     description: "vuepress-theme-hope 的博客演示",
+  //   },
+  // },
+  port: 7777,
   theme,
 
   // Enable it with pwa

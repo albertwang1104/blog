@@ -4,11 +4,11 @@ title: Page Config
 # This is the icon of the page
 icon: file
 # This control sidebar order
-order: 3
+# order: 3
 # Set author
 author: Ms.Hope
 # Set writing time
-date: 2020-01-01
+date: 2025-02-27
 # A page can have multiple categories
 category:
   - Guide
@@ -17,7 +17,7 @@ tag:
   - Page config
   - Guide
 # this page is sticky in article list
-sticky: true
+# sticky: true
 # this page will appear in starred articles
 star: true
 # You can customize footer content

@@ -1,7 +1,7 @@
 ---
 title: Markdown Enhance
 icon: fa6-brands:markdown
-order: 2
+# order: 2
 category:
   - Guide
 tag:
