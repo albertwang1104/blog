@@ -1,10 +1,13 @@
 ---
 title: Neural Network
+order: 1
 category:
   - Neural Network
 tag:
   - Study Note
 ---
+
+<!-- more -->
 
 ## 神經元計算示意
 

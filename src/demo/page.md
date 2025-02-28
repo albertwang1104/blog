@@ -117,5 +117,5 @@ The theme contains some useful components. Here are some examples:
   desc: Where there is light, there is hope
   logo: https://mister-hope.com/logo.svg
   link: https://mister-hope.com
-  background: rgba(253, 230, 138, 0.15)
+  background: rgba(239, 206, 77, 0.07)
   ```

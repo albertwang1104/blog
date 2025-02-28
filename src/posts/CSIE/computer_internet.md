@@ -15,7 +15,7 @@ tag:
 三上修了計算機網路，但上了兩個星期覺得好像有點聽得懂又有點混亂，所以決定寫個筆記讀懂它。希望可以堅持寫完XD
 :::
 
-<!--more-->
+<!-- more -->
 
 ## Computer Networks and the Internet
 

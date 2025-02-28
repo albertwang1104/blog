@@ -1,6 +1,7 @@
 ---
 title: 檢定方法
 order: 6
+date: 2025-02-28
 category:
   - Statistics
 tag:
@@ -8,6 +9,8 @@ tag:
 ---
 
 <!-- # 檢定方法（單、雙樣本檢定） -->
+
+<!-- more -->
 
 ## 統計檢定總說
 - One- or two-sample problem

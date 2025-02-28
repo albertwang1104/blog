@@ -6,7 +6,7 @@ title: Home
 bgImage: /cover1.jpg
 heroText: Yuan Heng's Blog
 tagline: A College Student of NCU Mathematical Department
-# heroFullScreen: true
+heroFullScreen: true
 projects:
   - icon: book
     name: Posts

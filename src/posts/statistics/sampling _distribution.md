@@ -1,6 +1,7 @@
 ---
 title: Sampling Distribution
 order: 1
+date: 2025-02-28
 category:
   - Statistics
 tag:
@@ -12,6 +13,8 @@ tag:
 
 
 在統計學中，抽樣分佈（sampling distribution）是指從一個母體中抽取的所有可能的樣本的統計量的分佈。也就是我們假設母體服從某一個分布$X$，因為抽樣是隨機的，所以抽出來的每一個樣本是一個服從母體分布的 random variable。
+
+<!-- more -->
 
 在這種情況下，我們討論的是樣本均值 $\overline X$ 和樣本變異數 $S^2$ 的抽樣分佈。
 

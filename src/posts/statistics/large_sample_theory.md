@@ -1,6 +1,7 @@
 ---
 title: Large sample theory for MLEs
 order: 3
+date: 2025-02-28
 category:
   - Statistics
 tag:
@@ -10,6 +11,8 @@ tag:
 <!-- # Large sample theory for MLEs -->
 
 大樣本理論（Large Sample Theory）主要討論當樣本量很大時，最大概似估計（Maximum Likelihood Estimators, MLEs）的性質。這些性質包括一致性（Consistency）和漸近正態性（Asymptotic Normality），這兩個性質對於估計參數的可靠性和精確性非常重要。
+
+<!-- more -->
 
 ### 一致性（Consistency）
 

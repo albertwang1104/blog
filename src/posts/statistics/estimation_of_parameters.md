@@ -1,12 +1,15 @@
 ---
 title: Estimation of Parameters
 order: 2
+date: 2025-02-28
 category:
   - Statistics
 tag:
   - Study Note
 ---
 <!-- # 點估計（Estimation of Parameters） -->
+
+<!-- more -->
 
 ## 點估計的性質
 

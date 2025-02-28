@@ -1,12 +1,16 @@
 --- 
 title: Confidence Interval
 order: 4
+date: 2025-02-28
 category:
   - Statistics
 tag:
   - Study Note
 ---
-# 信賴區間（Confidence Interval） 
+
+<!-- more -->
+
+## 信賴區間（Confidence Interval） 
 
 The confidence interval $1-\alpha$ for $\mu$ is 
 $$

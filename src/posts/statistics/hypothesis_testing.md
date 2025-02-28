@@ -1,12 +1,15 @@
 ---
 title: Hypothesis Testing
 order: 5
+date: 2025-02-28
 category:
   - Statistics
 tag:
   - Study Note
 ---
 <!-- # 假設檢定（Hypothesis Testing） -->
+
+<!-- more -->
 
 假設檢定是一種統計方法，用來判斷數據是否提供足夠的證據來支持特定的假設。假設檢定通常涉及以下步驟：
 

@@ -1,8 +1,13 @@
 ---
 title: U - Net 簡介
+order: 4
+category:
+  - Neural Network
 tag:
-    - NN
+  - Study Note
 ---
+
+<!-- more -->
 
 ## Reference
 - [U-Net 介紹](https://tomohiroliu22.medium.com/深度學習paper系列-05-u-net-41be7533c934)

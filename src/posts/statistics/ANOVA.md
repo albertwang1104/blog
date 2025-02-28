@@ -1,12 +1,15 @@
 ---
 title: ANOVA
 order: 8
+date: 2025-02-28
 category:
   - Statistics
 tag:
   - Study Note
 ---
 <!-- # ANOVA (Analysis Of Variance) -->
+
+<!-- more -->
 
 ### Hypothesis
 - $H_0$: 各組的均值相等，$\mu_1 = \mu_2 = \dots = \mu_k, k \geq 3$。
