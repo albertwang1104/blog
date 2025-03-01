@@ -46,7 +46,7 @@ export default hopeTheme({
       // sidebar
       sidebar: Sidebar,
 
-      footer: "hahahaha",
+      // footer: "hahahaha",
 
       // displayFooter: true,
 
