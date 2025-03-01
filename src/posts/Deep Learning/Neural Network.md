@@ -37,9 +37,19 @@ $$
 
 ## RNN
 
+
+## LSTM
+
 ## CNN
 
 
+## Generative Adversarial Networks (GANs)
+
+
+## Encoder-Decoder and Auto-Encoder Models
+
+## Transfer Learning
+
 ## Reference
 - [類神經網路(Neural Network)介紹](https://ithelp.ithome.com.tw/articles/10303151)
-- 
+- [RNN詳解(Recurrent Neural Network)](https://blog.csdn.net/bestrivern/article/details/90723524)
