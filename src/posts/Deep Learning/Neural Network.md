@@ -43,8 +43,7 @@ $$
 ## CNN
 
 
-## Generative Adversarial Networks (GANs)
-
+<!-- ## Generative Adversarial Networks (GANs) -->
 
 ## Encoder-Decoder and Auto-Encoder Models
 
